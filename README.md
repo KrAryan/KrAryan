@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **UI/UX designing**
 
-- 📫 How to reach me **kraryan1309@gmail.com**
+- 📫 How to reach me **love2physics@gmail.com & aryanofficial375@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1LeYcnTgGq93Qupn8cHCzv-5u9PRp5I58/view?usp=sharing)
 
