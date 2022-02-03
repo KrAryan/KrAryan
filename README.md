@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan</h1>
 <h3 align="center">A passionate UI/UX designer and frontend developer from India</h3>
-<h1 align="centre">https://user-images.githubusercontent.com/87253166/152273105-f54b32eb-f6bd-408f-ab03-7b212b56f9f8.png</h1>
+
+
 
 - 🔭 I’m currently working on **Carify**
 
@@ -10,7 +11,7 @@
 
 - 📫 How to reach me **kraryan1309@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LeYcnTgGq93Qupn8cHCzv-5u9PRp5I58/view?usp=sharing](https://drive.google.com/file/d/1LeYcnTgGq93Qupn8cHCzv-5u9PRp5I58/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1LeYcnTgGq93Qupn8cHCzv-5u9PRp5I58/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
