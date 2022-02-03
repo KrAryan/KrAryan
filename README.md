@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **Car Hood**
+- 🔭 I’m current Project on **[Linkdin-bot](https://github.com/KrAryan/linkedin-bot)**
 
 - 🌱 I’m currently learning **Rust , Three.js , Sharping my js and css skills**
 
