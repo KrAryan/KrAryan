@@ -4,7 +4,7 @@
 
 
 - 🔭 My current projects-
-**[Rolling-Forest](https://github.com/KrAryan/Rolling-Forests)**
+**[Rolling-Forest](https://github.com/KrAryan/Rolling-Forests)**,
 **[Linkedin-extension](https://github.com/KrAryan/linkedin-bot)**
 
 - 🌱 I’m currently learning **Rust , Three.js , Sharping my js and css skills**
