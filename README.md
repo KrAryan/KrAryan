@@ -7,7 +7,7 @@
 **[Rolling-Forest](https://github.com/KrAryan/Rolling-Forests)**,
 
 
-- 🌱 I’m currently learning **Rust , Three.js , Sharping my js and css skills**
+- 🌱 I’m currently learning **Rust , Three.js , Sharping my js and css skills and working on level and Game Design Stuff**
 
 - 💬 Ask me about **UI/UX designing**
 
