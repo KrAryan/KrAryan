@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **love2physics@gmail.com & aryanofficial375@gmail.com**
 
-- 👨🏻‍💻 portfolio [KrAryan](https://kraryan.netlify.app)
-
 - 📄 Know about my experiences [Resume]
 <h3 align="left">Connect with me:</h3>
 <p align="left">
