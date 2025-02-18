@@ -10,10 +10,7 @@
 - 🌱 I’m currently learning **Rust , Three.js , Sharping my js and css skills and working on level and Game Design Stuff**
 
 - 💬 Ask me about **UI/UX designing**
-
-- 📫 How to reach me **love2physics@gmail.com & aryanofficial375@gmail.com**
-
-- 📄 Know about my experiences [Resume]
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kumar-aryan-b12b03214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kumar-aryan-b12b03214/" height="30" width="40" /></a>
