@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan</h1>
 <h3 align="center">A passionate UI/UX designer </h3>
 
-
-
-- 🔭 My current projects-
-**[Rolling-Forest](https://github.com/KrAryan/Rolling-Forests)**,
-
-
-- 🌱 I’m currently learning **Rust , Three.js , Sharping my js and css skills and working on level and Game Design Stuff**
-
 - 💬 Ask me about **UI/UX designing**
   
 <h3 align="left">Connect with me:</h3>
