@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan</h1>
-<h3 align="center">A passionate UI/UX designer </h3>
+<h3 align="center">digital product designer </h3>
 
 - 💬 Ask me about **UI/UX designing**
   
